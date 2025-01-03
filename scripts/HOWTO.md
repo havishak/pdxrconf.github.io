@@ -48,8 +48,8 @@ This script only needs to be run once a year but running it multiple time won't 
 
 You can find the high-res logo in `static/img/logo/`. Edit the year text in Illustrator/Inkscape and save it as a `.png` in the appropriate `static/img/logo/logo_YEAR/` directory. Save two copies at the following sizes.
 
-* `logo_YEAR.png` = 500 x 560 at 330 ppi
-* `logo_YEAR_small.png` = 143 x 160 px at 330 ppi
+* `logo_YEAR.png` = 500 x 560 at 300 ppi
+* `logo_YEAR_small.png` = 143 x 160 px at 300 ppi
 
 ### 2.4 Static pages
 
@@ -216,7 +216,7 @@ bash scripts/UPDATE.sh
 
 The year of the conference must be set for this to run correctly. This is simply the 4 digit year such as 
 
-`YEAR="2024"`
+`YEAR="2025"`
 
 The remaining parameters are optional. Set them to `"false"` when data are not available yet and to `"true"` when you are ready to include them on the website.
 
