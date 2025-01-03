@@ -24,24 +24,16 @@ url: "cfp"
 
 <div class="center" id="cfp" style="text-align: left">
 
-<img src="/img/logo/logo_2024/hero.png" class="img-responsive" alt="Cascadia R hero logo">
+<img src="/img/logo/logo_2025/hero.png" class="img-responsive" alt="Cascadia R hero logo">
 
 <center><h2>
 It is with great pleasure that we announce the 
 <br>
-Call for Presentations for the 2024 Cascadia R Conference 
+Call for Presentations for the 2025 Cascadia R Conference 
 <br>
-to be held in Seattle, Washington on June 22, 2024. 
+to be held in Portland, Oregon on June 21, 2025. 
 </h2></center>
 <br>
-
-<center>
-<div class="box">
-<h2>
-Extended deadline:
-<br>
-Applications are now due March 1, 2024!
-</h2></div></center>
 
 <br>
 
@@ -74,12 +66,12 @@ given to submissions from Cascadia locations.
 
 <h2>How to apply</h2>
 
-To apply, fill out and submit the [Cascadia R Conference Application](https://forms.gle/b96QqvE61AxAvtnS9). Applicants must include an 
+To apply, fill out and submit the [Cascadia R Conference Application](https://docs.google.com/forms/d/1GosW61OnBt1XSbvEibEhlDGHKxcTE7Qw6GvvEJUW-es/viewform?edit_requested=true). Applicants must include an 
 abstract limited to 500 words describing your presentation and how it aligns 
 with the goals of the conference, as well as email contact information. 
 
-**The Call for Presentations will close March 1, 2024 at 5 PM PT.** 
-Presenters will be notified by the end of March 2024. Upon notification, 
+**The Call for Presentations will close February 14, 2025 at 5 PM PT.** 
+Presenters will be notified by the end of March 2025. Upon notification, 
 presenters are expected to confirm acceptance, provide a high-quality headshot, 
 and a short biography that will be included on the Cascadia R Conference website. 
 Prior to the conference, copies of the final presentation are required to be 
