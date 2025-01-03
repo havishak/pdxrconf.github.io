@@ -4,7 +4,7 @@
 
 ###### Set variables ######
 # Set the  year of the conference
-YEAR="2024"
+YEAR="2025"
 
 # Set all that you have ready to post to "true"
 ## If not available, set to "false"
