@@ -8,6 +8,14 @@ url: "sponsors"
 <a href="mailtso:cascadiarcon@gmail.com">here</a> </h3>
 
 <br>
+<h3>Silver</h3>
+<br>
+<div class="image" style="padding: 20px">
+  <a href="https://www.ohsu.edu/" target="_blank">
+  <img src="/img/sponsors/ohsu2.png" class="img-responsive" alt="Oregon Health and Science University Logo" style="width:400px;"></a></div>
+  
+<br>
+<br>
 <hr>
 
 <div class="row" style="margin-top: 50px">
@@ -23,13 +31,13 @@ url: "sponsors"
                                             </div></div>
                                             <br><br>
                                   <div class="row">
-                                    <div class="image" style="padding: 20px">
+                                    <div class="image" style="padding: 10px">
                                         <a href="https://nanostring.com/" target="_blank">
                                             <img src="/img/sponsors/Nanostring.png" class="img-responsive" alt="Nanostring Logo"></a>
                                             </div></div>
                                             <br><br>
                                     <div class="row">
-                                    <div class="image" style="padding: 20px">
+                                    <div class="image" style="padding: 10px">
                                         <a href="https://www.jumpingrivers.com/" target="_blank">
                                             <img src="/img/sponsors/Jumping_rivers.jpeg" class="img-responsive" alt="Jumping Rivers Logo"></a>
                                             </div></div>
