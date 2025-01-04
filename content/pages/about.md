@@ -8,19 +8,40 @@ This event is a place to come together around R and get together with like-minde
 the region.</h3>
 
 <h3>This conference first started in 2017 with the strong support of R-Ladies Portland and
-has since expanded across the region. We are excited to return to an in-person event 
+has since expanded across the region. We are excited to offer an in-person and remote event 
 this year and hope to see you there!</h3>
 
 ***
 
-### 2024 Organization Team
+### 2025 Organization Team
+
++ Cameron Mulder
++ Tim Anderson
+
+<br>
+
++ Becky Basulto
++ [Brittany Barker](http://brittanysbarker.org)
++ Bryan Shalloway
++ Connor Smith
++ Dror Berel
++ Ellis Hughes
++ Jeff Pannell
++ Katie Masiello
++ [Kim Dill-McFarland](https://kdillmcfarland.github.io/)
++ Peter Geissert
++ Sara Grusing
++ Scott Hancock
++ Skyler Elmstrom
++ Travis Knoche
+
+***
+### Past conferences
+#### 2024
 
 + Ellis Hughes
 + [Jacqueline Nolis](https://jnolis.com/)
 + [Kim Dill-McFarland](https://kdillmcfarland.github.io/)
-
-<br>
-
 + [Brittany Barker](http://brittanysbarker.org)
 + Brittney Kroiss
 + Cameron Mulder
@@ -36,8 +57,6 @@ this year and hope to see you there!</h3>
 + Rhonda Crate
 + Tim Anderson
 
-***
-### Past conferences
 #### 2023
 
 + [Brittany Barker](http://brittanysbarker.org)

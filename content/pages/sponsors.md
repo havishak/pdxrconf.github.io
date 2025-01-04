@@ -3,51 +3,17 @@ title: "Sponsors"
 url: "sponsors"
 ---
 
-<!--
-<h3>We are currently looking for sponsors for Cascadia R Conf 2024! If you are interested in sponsoring, please see our <a href="https://drive.google.com/file/d/1PJ6jyxdbrb8gJTSq4EL9ZqoPd490v-X2/view?usp=sharing">sponsorship levels</a> and contact us 
+
+<h3>We are currently looking for sponsors for Cascadia R Conf 2025! If you are interested in sponsoring, please see our <a href="https://drive.google.com/file/d/1tgUJov5zMtIauw23wB8xZKiSHjFfjf35/view?usp=sharing">sponsorship levels</a> and contact us 
 <a href="mailtso:cascadiarcon@gmail.com">here</a> </h3>
--->
 
-<br>
-
-<h3>Silver</h3>
-
-<br>
-
-<div class="image" style="padding: 20px">
-  <a href="https://medicine.uw.edu/" target="_blank">
-  <img src="/img/sponsors/uw_med.png" class="img-responsive" alt="U of Washington, Dept of Medicine Logo" style="width:400px;"></a></div>
-  
-<br>
-
-<h3>Bronze</h3>
-
-<br>
-
-<div class="image" style="padding: 20px">
-  <a href="https://www.r-consortium.org/" target="_blank">
-  <img src="/img/sponsors/rconsortium.png" class="img-responsive" alt="R Consortium Logo" style="width:400px;"></a></div>  
-
-<br>
-
-<h3>Associate</h3>
-
-<br>
-
-<div class="image" style="padding: 20px">
-  <a href="https://www.jumpingrivers.com/" target="_blank">
-  <img src="/img/sponsors/Jumping_rivers.jpeg" class="img-responsive" alt="Jumping Rivers Logo" style="width:400px;"></a></div>
-
-<br>
-
-                  
 <br>
 <hr>
 
 <div class="row" style="margin-top: 50px">
                         <h2>Past Sponsors</h2>
                         <br>
-                        <!-- Procogia and nanostring-->
+                        <!-- Procogia and nanostring and jumping rivers -->
                         <div class="column">
                                 <div class="col-md-3">
                                   <div class="row">
@@ -61,8 +27,14 @@ url: "sponsors"
                                         <a href="https://nanostring.com/" target="_blank">
                                             <img src="/img/sponsors/Nanostring.png" class="img-responsive" alt="Nanostring Logo"></a>
                                             </div></div>
+                                            <br><br>
+                                    <div class="row">
+                                    <div class="image" style="padding: 20px">
+                                        <a href="https://www.jumpingrivers.com/" target="_blank">
+                                            <img src="/img/sponsors/Jumping_rivers.jpeg" class="img-responsive" alt="Jumping Rivers Logo"></a>
+                                            </div></div>
                                     </div></div>
-                        <!-- Rstudio and R-->
+                        <!-- Rstudio and R and UW med-->
                         <div class="column">
                                 <div class="col-md-3">
                                   <div class="row">
@@ -75,6 +47,12 @@ url: "sponsors"
                                     <div class="image" style="padding: 20px">
                                         <a href="https://posit.co/" target="_blank">
                                             <img src="/img/sponsors/RStudio-Logo-Flat.png" class="img-responsive" alt="RStudio Logo"></a>
+                                            </div></div>
+                                            <br><br>
+                                    <div class="row">
+                                    <div class="image" style="padding: 20px">
+                                        <a href="https://medicine.uw.edu/" target="_blank">
+                                            <img src="/img/sponsors/uw_med.png" class="img-responsive" alt="U of Washington, Dept of Medicine Logo"></a>
                                             </div></div>
                                     </div></div>
                         <!-- Fred Hutch and eScience and U of Oregon-->
