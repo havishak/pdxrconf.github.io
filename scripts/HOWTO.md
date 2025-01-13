@@ -198,6 +198,8 @@ Once the keynote speakers are added, update the `speakers` parameter in [Step 2.
 
 Edit `config.toml` (main project directory) and input a color from the list provided in `style = "NAME"` (near line 120). Alternatively, you can make a custom theme and save it under `themes/hugo-universal-theme/static/css/style.NAME.css` and then use that NAME for the style parameter.
 
+Also update the custom Register button colors at the bottom of `static/css/custom.css`
+
 ### 2.7 Other files
 
 If you have other materials you would like to include in the repo, you can put them in `static/pdfs/`. This may include fliers, sponsor levels, etc. This directory does not render to the website so naming conventions are not in place. Please just stay organized and logical in your choices.
