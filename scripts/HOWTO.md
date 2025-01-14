@@ -105,7 +105,7 @@ Note that this page only renders when `cfp="true"`. See [Step 2.8](#update) for 
 
 #### 2.4.5 Registration link
 
-Once available, add the registration link to `layouts/partials/nav.html ` (`href=` near line 41) and `layouts/partials/register.html` (`href=` near line 3). Also update the close date in `layouts/partials/register.html`. Then, set `register="true"` in the update script. See [Step 2.8](#update) for details.
+Once available, add the registration link to `layouts/partials/nav.html` (`href=` near line 41) and `layouts/partials/register.html` (`href=` near line 3). Also update the close date in `layouts/partials/register.html`. Then, set `register="true"` in the update script. See [Step 2.8](#update) for details.
 
 #### 2.4.6 FAQ
 
@@ -194,13 +194,19 @@ To add:
 
 Once the keynote speakers are added, update the `speakers` parameter in [Step 2.8](#update) to highlight them on the homepage.
 
-### 2.6 Other files
+### 2.6 Change the color theme
+
+Edit `config.toml` (main project directory) and input a color from the list provided in `style = "NAME"` (near line 120). Alternatively, you can make a custom theme and save it under `themes/hugo-universal-theme/static/css/style.NAME.css` and then use that NAME for the style parameter.
+
+Also update the custom Register button colors at the bottom of `static/css/custom.css`
+
+### 2.7 Other files
 
 If you have other materials you would like to include in the repo, you can put them in `static/pdfs/`. This may include fliers, sponsor levels, etc. This directory does not render to the website so naming conventions are not in place. Please just stay organized and logical in your choices.
 
 <a name="update"></a>
 
-### 2.7 Update website 
+### 2.8 Update website 
 
 The `scripts/UPDATE.sh` script updates files with the content you've created above. 
 
@@ -227,9 +233,9 @@ The remaining parameters are optional. Set them to `"false"` when data are not a
 * `speakers`: Homepage keynote highlight. See [Step 2.5](#speaker)
 * `register`: Homepage and taskbar registration links
 * `alert`: Homepage alert. Last used to announce conference cancellation in 2020
-* `scholarship`: Homepage link to scholarships. See [Step ](#scholarship)
+* `scholarship`: Homepage link to scholarships. See [Step 2.4.10](#scholarship)
 
-### 2.8: Check website render locally 
+### 2.9 Check website render locally 
 
 The website is made with [Hugo](https://gohugo.io/)
 and the [Bootstrapious](https://bootstrapious.com/free-templates) theme.

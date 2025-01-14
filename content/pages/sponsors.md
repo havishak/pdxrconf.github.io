@@ -15,6 +15,11 @@ url: "sponsors"
   <img src="/img/sponsors/ohsu2.png" class="img-responsive" alt="Oregon Health and Science University Logo" style="width:400px;"></a></div>
   
 <br>
+<div class="image" style="padding: 20px">
+  <a href="https://www.pdx.edu/" target="_blank">
+  <img src="/img/sponsors/psu_business.png" class="img-responsive" alt="Portland State University Logo" style="width:400px;"></a></div>
+  
+<br>
 <br>
 <hr>
 
