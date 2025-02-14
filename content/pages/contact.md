@@ -22,14 +22,20 @@ url: "contact"
 <i style="float:left" class='fab fa-2x fa-twitter'>&nbsp;</i>
 <h4>@cascadiarconf</a></h4>
 
+<br>
+
 <a href="https://mastodon.social/@cascadiarconf@fosstodon.org">
 <i style="float:left" class='fab fa-2x fa-mastodon'>&nbsp;</i>
 <h4>@cascadiarconf@fosstodon.org </a></h4>
 
+<br>
+
 <a href="https://bsky.app/profile/cascadiarconf.bsky.social">
-<i style="float:left" class='fab fa-2x fa-bluesky'>&nbsp;</i>
+<i style="float:left" class='fab fa-2x fa-square-bluesky'>&nbsp;</i>
 <h4>@cascadiarconf.bsky.social</a></h4>
 
+<br> 
+  
 <a href="https://www.linkedin.com/showcase/cascadia-r-conference">
 <i style="float:left" class='fab fa-2x fa-linkedin'>&nbsp;</i>
 <h4>cascadia-r-conference</a></h4>
