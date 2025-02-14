@@ -22,6 +22,18 @@ url: "contact"
 <i style="float:left" class='fab fa-2x fa-twitter'>&nbsp;</i>
 <h4>@cascadiarconf</a></h4>
 
+<a href="https://mastodon.social/@cascadiarconf@fosstodon.org">
+<i style="float:left" class='fab fa-2x fa-mastodon'>&nbsp;</i>
+<h4>@cascadiarconf@fosstodon.org </a></h4>
+
+<a href="https://bsky.app/profile/cascadiarconf.bsky.social">
+<i style="float:left" class='fab fa-2x fa-bluesky'>&nbsp;</i>
+<h4>@cascadiarconf.bsky.social</a></h4>
+
+<a href="https://www.linkedin.com/showcase/cascadia-r-conference">
+<i style="float:left" class='fab fa-2x fa-linkedin'>&nbsp;</i>
+<h4>cascadia-r-conference</a></h4>
+  
 <br>
 
 <a href="https://join.slack.com/t/cascadiarconf/shared_invite/zt-1lu53059t-GAxQtzrwQhmo7BXE7YfC8w">
