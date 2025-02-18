@@ -39,7 +39,7 @@ url: "contact"
 <br>
 
 <a href="https://bsky.app/profile/cascadiarconf.bsky.social">
-<i style="float:left" class='fab fa-2x fa-bluesky'>&nbsp;</i>
+<i style="float:left" class='fa-brands fa-bluesky'>&nbsp;</i>
 <h4>@cascadiarconf.bsky.social</a></h4>
   
 <br>
